@@ -1,3 +1,11 @@
+
+A simple disaster management system for notifying, and responding to natural disasters in a crowd source manner. 
+
+Configurations: Usual laravel configurations
+Additional Configurations: Check Disaster.sql file for additional queries. (All of the table are created with laravel Migrations!)
+
+Read more about Laravel :
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
